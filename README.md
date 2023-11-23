@@ -1,3 +1,5 @@
+Демо: `https://test-amo.wenddak1ng.ru/`
+
 - GET: / ['name', 'email', 'phone'] - Основной эндпоинт (ТЗ)
 - GET: /contacts - Список контактов
 - GET: /contacts/:id - Контакт по ID
